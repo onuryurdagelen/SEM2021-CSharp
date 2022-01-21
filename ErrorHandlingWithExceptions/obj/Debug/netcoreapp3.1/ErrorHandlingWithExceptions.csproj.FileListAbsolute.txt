@@ -1,0 +1,14 @@
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\bin\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.exe
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\bin\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.deps.json
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\bin\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.runtimeconfig.json
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\bin\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.runtimeconfig.dev.json
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\bin\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.dll
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\bin\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.pdb
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.AssemblyInfoInputs.cache
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.AssemblyInfo.cs
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.csproj.CoreCompileInputs.cache
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.dll
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.pdb
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.genruntimeconfig.cache
+C:\Users\SC-204 8\Desktop\SEM2021-master\SEM2021-master\ErrorHandlingWithExceptions\obj\Debug\netcoreapp3.1\ErrorHandlingWithExceptions.csproj.AssemblyReference.cache
